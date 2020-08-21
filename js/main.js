@@ -9,3 +9,35 @@ $(document).ready(function(){
  })
 
 })
+
+let blog = [
+	{
+		title: 'Post Title',
+		content: 'proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+		link: '/#',
+		image: 'polit.jpg',
+		date: 'March 12, 2014'
+	},
+	{
+		title: 'Post Title',
+		content: 'proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+		link: '/#',
+		image: 'images.jpg',
+		date: 'December 20, 2014'
+	},
+	{
+		title: 'Post Title',
+		content: 'proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+		link: '/#',
+		image: 'image2.jpg',
+		date: 'April 30, 2014'
+	}
+	,
+	{
+		title: 'Post Title',
+		content: 'proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+		link: '/#',
+		image: 'headerback.jpg',
+		date: 'April 20, 2014'
+	}
+]
